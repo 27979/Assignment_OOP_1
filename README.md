@@ -1,4 +1,4 @@
-# Niyigaba_Jean_Remy - Java Assignments
+# Niyigaba_Jean_Remy - OOP Assignments
 
 This repository contains my Java assignments. All assignments are organized inside the `27979` folder.
 
