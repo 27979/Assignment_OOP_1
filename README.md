@@ -9,7 +9,8 @@ This repository contains my Java assignments. All assignments are organized insi
 2. Navigate to the main folder:
 
 ```bash
-cd Niyigaba_Jean_Remy/27979
+cd Niyigaba_Jean_Remy
+cd 27979
 cd Q1   # or Q2, Q3, ..., Q6
 
 javac ClassName.java
